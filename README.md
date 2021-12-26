@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/fbd6d84b-3d41-4f0d-b9de-9fbf06457c16.svg)](https://wakatime.com/@fbd6d84b-3d41-4f0d-b9de-9fbf06457c16)
+
 <!--
 **kkarimi/kkarimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
