@@ -1,8 +1,8 @@
+<!--
 ### Hi there 👋
 
 [![wakatime](https://wakatime.com/badge/user/fbd6d84b-3d41-4f0d-b9de-9fbf06457c16.svg)](https://wakatime.com/@fbd6d84b-3d41-4f0d-b9de-9fbf06457c16)
 
-<!--
 **kkarimi/kkarimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img src='https://wakatime.com/share/@Nima/84e8af3c-c89c-421a-87cb-35cd730ab489.svg'></img>
 
 
 <a href="https://github.com/kkarimi">
