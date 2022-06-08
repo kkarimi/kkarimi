@@ -18,3 +18,8 @@ Here are some ideas to get you started:
 -->
 
 <img src='https://wakatime.com/share/@Nima/84e8af3c-c89c-421a-87cb-35cd730ab489.svg'></img>
+
+
+<a href="https://github.com/kkarimi">
+  <img align="center" width="49%" src="./github-metrics.svg" />
+</a>
