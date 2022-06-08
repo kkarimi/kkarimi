@@ -73,4 +73,4 @@ jobs:
           plugin_wakatime_repositories_visibility: public
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_url: https://wakatime.com/@Nima
-          plugin_wakatime_user: @Nima
+          plugin_wakatime_user: "@Nima"
