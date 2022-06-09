@@ -55,22 +55,22 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_reactions: yes
-          plugin_reactions_display: absolute
-          plugin_reactions_limit: 200
-          plugin_reactions_limit_discussions: 100
-          plugin_reactions_limit_discussions_comments: 100
-          plugin_reactions_limit_issues: 100
+          # plugin_reactions: yes
+          # plugin_reactions_display: absolute
+          # plugin_reactions_limit: 200
+          # plugin_reactions_limit_discussions: 100
+          # plugin_reactions_limit_discussions_comments: 100
+          # plugin_reactions_limit_issues: 100
           plugin_stars: yes
           plugin_stars_limit: 4
           plugin_topics: yes
           plugin_topics_limit: 15
           plugin_topics_mode: starred
           plugin_topics_sort: stars
-          plugin_wakatime: yes
-          plugin_wakatime_days: 365
-          plugin_wakatime_limit: 5
-          plugin_wakatime_repositories_visibility: public
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_url: https://wakatime.com/@Nima
-          plugin_wakatime_user: "@Nima"
+          # plugin_wakatime: yes
+          # plugin_wakatime_days: 365
+          # plugin_wakatime_limit: 5
+          # plugin_wakatime_repositories_visibility: public
+          # plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          # plugin_wakatime_url: https://wakatime.com/@Nima
+          # plugin_wakatime_user: "@Nima"
