@@ -2478,7 +2478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>medusajs/medusa</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The open-source Shopify alternative ⚡️</div>
@@ -2531,7 +2531,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>go-task/task</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A task runner / simpler Make alternative written in Go</div>
@@ -2584,7 +2584,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>npm/documentation</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Documentation for the npm registry, website, and command-line interface.</div>
@@ -2637,7 +2637,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nvm-sh/nvm</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</div>
@@ -2781,7 +2781,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Jun 2022, 19:06:13 (timezone Europe/Lisbon) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 10 Jun 2022, 20:05:39 (timezone Europe/Lisbon) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
