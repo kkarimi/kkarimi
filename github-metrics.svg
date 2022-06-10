@@ -238,7 +238,7 @@
                     <rect mask="url(#languages-bar)" x="285.4084054116961" y="0" width="51.780632077970374" height="8" fill="#f1e05a"/>
                     <rect mask="url(#languages-bar)" x="337.1890374896665" y="0" width="41.8105271928212" height="8" fill="#F05138"/>
                     <rect mask="url(#languages-bar)" x="378.99956468248763" y="0" width="28.062538959770777" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="407.0621036422584" y="0" width="22.009982109558603" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="407.0621036422584" y="0" width="22.009982109558603" height="8" fill="#3178c6"/>
                     <rect mask="url(#languages-bar)" x="429.07208575181704" y="0" width="21.269919407020346" height="8" fill="#3572A5"/>
                     <rect mask="url(#languages-bar)" x="450.3420051588373" y="0" width="9.657994841162616" height="8" fill="#178600"/>
                 </svg>
@@ -275,7 +275,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#2b7489" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         TypeScript
                     </div>
@@ -2478,7 +2478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>go-task/task</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A task runner / simpler Make alternative written in Go</div>
@@ -2531,7 +2531,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>npm/documentation</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Documentation for the npm registry, website, and command-line interface.</div>
@@ -2584,7 +2584,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nvm-sh/nvm</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</div>
@@ -2637,7 +2637,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>serverless/components-core</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">WIP</div>
@@ -2771,7 +2771,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Jun 2022, 10:05:48 (timezone Europe/Lisbon) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 10 Jun 2022, 11:05:59 (timezone Europe/Lisbon) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
