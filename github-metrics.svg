@@ -2463,7 +2463,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>matchai/awesome-pinned-gists</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📌✨ A collection of awesome dynamic pinned gists for GitHub</div>
@@ -2504,7 +2504,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>react-hook-form/resolvers</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📋 Validation resolvers: Yup, Zod, AJV, Joi, Superstruct, Vest, class-validator, io-ts, typanion, Ajv and nope.</div>
@@ -2557,7 +2557,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>react-hook-form/react-hook-form</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📋 React Hooks for form state management and validation (Web + React Native)</div>
@@ -2610,7 +2610,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>react-hook-form/devtools</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📋 DevTools to help debug forms.</div>
@@ -2731,7 +2731,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Jun 2022, 17:07:19 (timezone Europe/Lisbon) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 14 Jun 2022, 18:08:12 (timezone Europe/Lisbon) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
