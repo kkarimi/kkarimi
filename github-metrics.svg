@@ -2483,7 +2483,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mhlabs/evb-cli</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Pattern generator and debugging tool for Amazon EventBridge</div>
@@ -2751,7 +2751,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Jun 2022, 13:07:43 (timezone Europe/Lisbon) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 18 Jun 2022, 14:09:56 (timezone Europe/Lisbon) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
