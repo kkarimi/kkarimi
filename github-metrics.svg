@@ -2452,7 +2452,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>paulmillr/micro-otp</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">One Time Password generation via RFC 6238</div>
@@ -2505,7 +2505,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>paulmillr/micro-password-generator</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Utilities for password generation and estimation with support for iOS keychain</div>
@@ -2558,7 +2558,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Cimbali/CleanLinks</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Converts obfuscated/nested links to genuine clean links.</div>
@@ -2732,7 +2732,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jun 2022, 01:19:26 (timezone Europe/Lisbon) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 20 Jun 2022, 02:34:04 (timezone Europe/Lisbon) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
