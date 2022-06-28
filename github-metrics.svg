@@ -2464,7 +2464,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>turbot/steampipe-mod-aws-perimeter</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Is your AWS perimeter secure? Use Steampipe to check your AWS accounts for public resources, resources shared with untrusted accounts, insecure network configurations and more.</div>
@@ -2748,7 +2748,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Jun 2022, 19:06:08 (timezone Europe/Lisbon) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 28 Jun 2022, 20:05:30 (timezone Europe/Lisbon) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
