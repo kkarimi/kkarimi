@@ -2468,7 +2468,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>FormidableLabs/react-native-zephyr</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">TailwindCSS-inspired styling library for React Native.</div>
@@ -2521,7 +2521,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>turbot/steampipe-mod-aws-perimeter</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Is your AWS perimeter secure? Use Steampipe to check your AWS accounts for public resources, resources shared with untrusted accounts, insecure network configurations and more.</div>
@@ -2608,7 +2608,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        45
+                                        46
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2627,7 +2627,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sindresorhus/awesome-nodejs</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2751,7 +2751,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jun 2022, 22:06:54 (timezone Europe/Lisbon) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 29 Jun 2022, 23:06:13 (timezone Europe/Lisbon) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
