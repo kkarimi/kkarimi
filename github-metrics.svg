@@ -2461,7 +2461,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dylanaraps/neofetch</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🖼️  A command-line system information tool written in bash 3.2+</div>
@@ -2514,7 +2514,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>alopezrivera/owo</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Export your OneNote note collection to plain text.</div>
@@ -2567,7 +2567,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lumigo-io/serverless-lumigo-plugin</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Serverless monitoring and troubleshooting plugin to easily apply distributed tracing</div>
@@ -2620,7 +2620,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>risenforces/nestjs-zod-prisma</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Zod Prisma fork for nestjs-zod</div>
@@ -2747,7 +2747,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jul 2022, 23:06:06 (timezone Europe/Lisbon) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 6 Jul 2022, 00:06:16 (timezone Europe/Lisbon) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
