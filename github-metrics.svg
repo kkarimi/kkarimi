@@ -2462,7 +2462,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>readmeio/api</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🚀 Automatic SDK generation from an OpenAPI definition</div>
@@ -2515,7 +2515,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>googleapis/release-please</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">generate release PRs based on the conventionalcommits.org spec</div>
@@ -2568,7 +2568,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Redocly/redocly-cli</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⚒️ Redocly CLI (fka OpenAPI CLI) toolbox with rich validation and bundling features.</div>
@@ -2748,7 +2748,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jul 2022, 04:35:45 (timezone Europe/Lisbon) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 5 Jul 2022, 05:19:14 (timezone Europe/Lisbon) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
