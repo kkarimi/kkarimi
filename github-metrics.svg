@@ -2469,7 +2469,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kcwinner/cdk-appsync-transformer</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AWS Amplify inspired CDK construct for creating directive based AppSync APIs</div>
@@ -2749,7 +2749,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jul 2022, 03:49:23 (timezone Europe/Lisbon) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 20 Jul 2022, 04:35:49 (timezone Europe/Lisbon) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
