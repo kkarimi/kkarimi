@@ -2478,7 +2478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aws-samples/serverless-patterns</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Serverless patterns. Learn more at the website: https://serverlessland.com/patterns.</div>
@@ -2584,7 +2584,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kcwinner/cdk-appsync-transformer</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AWS Amplify inspired CDK construct for creating directive based AppSync APIs</div>
@@ -2764,7 +2764,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jul 2022, 23:06:01 (timezone Europe/Lisbon) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 23 Jul 2022, 00:05:53 (timezone Europe/Lisbon) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
