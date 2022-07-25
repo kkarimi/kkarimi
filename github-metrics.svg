@@ -2452,7 +2452,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>schibsted/github-actions-self-hosted-cdk</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2506,7 +2506,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ChromeDevTools/awesome-chrome-devtools</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Awesome tooling and resources in the Chrome DevTools &amp; DevTools Protocol ecosystem</div>
@@ -2553,7 +2553,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nikovirtala/cdk-github-actions-runner</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Deploy self-hosted GitHub Actions runner to AWS Fargate using AWS Cloud Development Kit (CDK)</div>
@@ -2606,7 +2606,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>doersino/markdeep-thesis</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Write your (under)graduate thesis with Markdeep and typeset it right in your browser.</div>
@@ -2733,7 +2733,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jul 2022, 07:10:29 (timezone Europe/Lisbon) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 25 Jul 2022, 08:07:07 (timezone Europe/Lisbon) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
