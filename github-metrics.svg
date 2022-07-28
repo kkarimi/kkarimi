@@ -2471,7 +2471,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fpapado/blurhash-rust-wasm</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Rust and WASM implementation of the blurhash algorithm</div>
@@ -2524,7 +2524,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>serverless-operations/serverless-step-functions</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AWS Step Functions plugin for Serverless Framework ⚡️</div>
@@ -2759,7 +2759,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Jul 2022, 01:21:44 (timezone Europe/Lisbon) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 28 Jul 2022, 02:37:15 (timezone Europe/Lisbon) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
