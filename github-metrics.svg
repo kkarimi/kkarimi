@@ -2464,7 +2464,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>org-formation/org-formation-cli</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Better than landingzones!</div>
@@ -2517,7 +2517,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>npm/cli</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">the package manager for JavaScript</div>
@@ -2570,7 +2570,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sindresorhus/execa</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Process execution for humans</div>
@@ -2623,7 +2623,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RafalWilinski/dynamodb-migrations</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Functionless-based mini-framework for DynamoDB migrations in AWS CDK.</div>
@@ -2750,7 +2750,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Aug 2022, 23:05:47 (timezone Europe/Lisbon) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 10 Aug 2022, 00:05:50 (timezone Europe/Lisbon) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
