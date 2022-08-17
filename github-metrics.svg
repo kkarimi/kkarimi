@@ -2468,7 +2468,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tywalch/electrodb</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A DynamoDB library to ease the use of modeling complex hierarchical relationships and implementing a Single Table Design while keeping your query code readable.</div>
@@ -2521,7 +2521,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>silvia-odwyer/photon</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⚡ Rust/WebAssembly image processing library</div>
@@ -2748,7 +2748,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Aug 2022, 14:20:45 (timezone Europe/Lisbon) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 17 Aug 2022, 15:10:58 (timezone Europe/Lisbon) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
