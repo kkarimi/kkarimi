@@ -2461,7 +2461,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>streetwriters/notesnook</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A fully open source &amp; end-to-end encrypted note taking alternative to Evernote.</div>
@@ -2754,7 +2754,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Sept 2022, 07:30:42 (timezone Europe/Lisbon) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 6 Sept 2022, 08:20:16 (timezone Europe/Lisbon) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
