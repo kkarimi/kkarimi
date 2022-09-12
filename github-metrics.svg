@@ -2451,7 +2451,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tableau/VizAlerts</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Data-driven alerting for Tableau Server</div>
@@ -2504,7 +2504,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dev-xo/stripe-stack</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open source Remix Stack that integrates Stripe Subscriptions, Social Authentication, Testing and a few more features. SQLite version. Deploys to Fly.io</div>
@@ -2731,7 +2731,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Sept 2022, 07:30:09 (timezone Europe/Lisbon) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 12 Sept 2022, 08:18:50 (timezone Europe/Lisbon) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
