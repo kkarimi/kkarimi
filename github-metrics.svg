@@ -2451,7 +2451,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>carbon-app/carbon</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2507,7 +2507,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nanostores/nanostores</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A tiny (258 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores</div>
@@ -2560,7 +2560,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Visual-Regression-Tracker/Visual-Regression-Tracker</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Backend and Frontend application for tracking differences via image comparison</div>
@@ -2613,7 +2613,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bmish/eslint-doc-generator</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Automatic documentation generator for ESLint plugins and rules.</div>
@@ -2734,7 +2734,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Oct 2022, 16:08:59 (timezone Europe/Lisbon) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 10 Oct 2022, 17:08:36 (timezone Europe/Lisbon) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
