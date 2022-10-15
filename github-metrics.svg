@@ -2475,7 +2475,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Bielik20/nx-plugins</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2529,7 +2529,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lirantal/lockfile-lint</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Lint an npm or yarn lockfile to analyze and detect security issues</div>
@@ -2582,7 +2582,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>withastro/site-kit</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Styles, components, and tooling config for use in *.astro.build websites</div>
@@ -2629,7 +2629,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vercel/satori</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Enlightened library to convert HTML and CSS to SVG</div>
@@ -2756,7 +2756,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Oct 2022, 21:06:05 (timezone Europe/Lisbon) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 15 Oct 2022, 22:05:55 (timezone Europe/Lisbon) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
