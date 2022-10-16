@@ -2480,7 +2480,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Bielik20/nx-plugins</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2534,7 +2534,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lirantal/lockfile-lint</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Lint an npm or yarn lockfile to analyze and detect security issues</div>
@@ -2587,7 +2587,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>withastro/site-kit</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Styles, components, and tooling config for use in *.astro.build websites</div>
@@ -2761,7 +2761,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Oct 2022, 09:07:01 (timezone Europe/Lisbon) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 16 Oct 2022, 10:07:38 (timezone Europe/Lisbon) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
