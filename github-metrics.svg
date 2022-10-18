@@ -2457,7 +2457,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>getsentry/sentry-unplugin</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">JavaScript Bundler Plugins for Sentry</div>
@@ -2510,7 +2510,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cannibalox/logseq-custom-files</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">logseq custom.js and custom.css utilities : resize query table columns, hide namespaces...</div>
@@ -2725,7 +2725,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Oct 2022, 23:06:01 (timezone Europe/Lisbon) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 19 Oct 2022, 00:06:17 (timezone Europe/Lisbon) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
