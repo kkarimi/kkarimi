@@ -2473,7 +2473,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>francoismassart/eslint-plugin-tailwindcss</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ESLint plugin for Tailwind CSS usage</div>
@@ -2526,7 +2526,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Xiphe/cachified</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">wrap virtually everything that can store by key to act as cache with ttl/max-age, stale-while-validate, parallel fetch protection and type-safety support</div>
@@ -2579,7 +2579,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jonathandion/awesome-emails</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">✉️ An awesome list of resources to build better emails.</div>
@@ -2747,7 +2747,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Oct 2022, 11:07:32 (timezone Europe/Lisbon) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 20 Oct 2022, 12:07:38 (timezone Europe/Lisbon) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
