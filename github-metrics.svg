@@ -2477,7 +2477,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tastejs/next-movies</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Next.js Movies App</div>
@@ -2530,7 +2530,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Charca/astro-movies</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Movie DB App built with Astro</div>
@@ -2577,7 +2577,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>theburningmonk/testing-serverless-architectures</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Companion repo for my video course "Testing Serverless Architectures" see https://testserverlessapps.com</div>
@@ -2745,7 +2745,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Oct 2022, 22:06:09 (timezone Europe/Lisbon) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 21 Oct 2022, 23:05:56 (timezone Europe/Lisbon) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
