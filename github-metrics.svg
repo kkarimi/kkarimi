@@ -2475,7 +2475,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>flaviostutz/monolint</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Linter for monorepos. Checks folder structure, module contents, file contents and naming conventions</div>
@@ -2755,7 +2755,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Nov 2022, 03:29:48 (timezone Europe/Lisbon) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 5 Nov 2022, 04:11:26 (timezone Europe/Lisbon) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
