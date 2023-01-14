@@ -2479,7 +2479,7 @@
                                         <span>starred 3 days ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">the next generation package, cross‐platform manager</div>
+                                <div class="field description">the next generation, cross‐platform package manager</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2756,7 +2756,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Jan 2023, 18:05:53 (timezone Europe/Lisbon) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 14 Jan 2023, 19:05:26 (timezone Europe/Lisbon) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
