@@ -2461,7 +2461,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>leegilmorecode/serverless-graphql-api-federation</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An example of using AWS AppSync to federate multiple private Amazon API Gateways with direct integration</div>
@@ -2508,7 +2508,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>withastro/astro.build</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2730,7 +2730,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Jan 2023, 07:05:59 (timezone Europe/Lisbon) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 31 Jan 2023, 08:06:26 (timezone Europe/Lisbon) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
