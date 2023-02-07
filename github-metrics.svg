@@ -2462,7 +2462,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cloudevents/spec</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CloudEvents Specification</div>
@@ -2515,7 +2515,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>infinitered/ignite</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more!</div>
@@ -2568,7 +2568,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>infinitered/nsfwjs</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">NSFW detection on the client-side via TensorFlow.js</div>
@@ -2621,7 +2621,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aws-samples/datamesh-ui</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2749,7 +2749,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Feb 2023, 13:09:44 (timezone Europe/Lisbon) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 7 Feb 2023, 14:05:41 (timezone Europe/Lisbon) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
