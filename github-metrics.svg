@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -89,7 +89,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
                             </svg>
-                            262 Pull requests reviewed
+                            264 Pull requests reviewed
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -102,7 +102,7 @@
                                 <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                 <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                             </svg>
-                            39 Issues opened
+                            40 Issues opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -398,16 +398,16 @@
                                     </g>
                                     <g>
                                         <g class="ct-series ct-series-a">
-                                            <path d="M30,125L30,125C39.5,109.111,49,77.333,58.5,77.333C68,77.333,77.5,88.333,87,88.333C96.5,88.333,106,37,115.5,37C125,37,134.5,89.708,144,92C153.5,94.292,163,93.494,172.5,95.667C182,97.84,191.5,115.222,201,125L201,125Z" class="ct-area"/>
-                                            <path d="M30,125C39.5,109.111,49,77.333,58.5,77.333C68,77.333,77.5,88.333,87,88.333C96.5,88.333,106,37,115.5,37C125,37,134.5,89.708,144,92C153.5,94.292,163,93.494,172.5,95.667C182,97.84,191.5,115.222,201,125" class="ct-line"/>
+                                            <path d="M30,125L30,125C39.5,110.333,49,81,58.5,81C68,81,77.5,88.333,87,88.333C96.5,88.333,106,37,115.5,37C125,37,134.5,92,144,92C153.5,92,163,92,172.5,92C182,92,191.5,114,201,125L201,125Z" class="ct-area"/>
+                                            <path d="M30,125C39.5,110.333,49,81,58.5,81C68,81,77.5,88.333,87,88.333C96.5,88.333,106,37,115.5,37C125,37,134.5,92,144,92C153.5,92,163,92,172.5,92C182,92,191.5,114,201,125" class="ct-line"/>
                                             <line x1="30" y1="125" x2="30.01" y2="125" class="ct-point" ct:value="0"/>
-                                            <line x1="58.5" y1="77.33333333333334" x2="58.51" y2="77.33333333333334" class="ct-point" ct:value="13"/>
+                                            <line x1="58.5" y1="81" x2="58.51" y2="81" class="ct-point" ct:value="12"/>
                                             <line x1="87" y1="88.33333333333334" x2="87.01" y2="88.33333333333334" class="ct-point" ct:value="10"/>
                                             <line x1="115.5" y1="37" x2="115.51" y2="37" class="ct-point" ct:value="24"/>
                                             <line x1="144" y1="92" x2="144.01" y2="92" class="ct-point" ct:value="9"/>
-                                            <line x1="172.5" y1="95.66666666666667" x2="172.51" y2="95.66666666666667" class="ct-point" ct:value="8"/>
+                                            <line x1="172.5" y1="92" x2="172.51" y2="92" class="ct-point" ct:value="9"/>
                                             <line x1="201" y1="125" x2="201.01" y2="125" class="ct-point" ct:value="0"/>
-                                        <text x="58.5" y="72.33333333333334" class="ct-post">13</text><text x="87" y="83.33333333333334" class="ct-post">10</text><text x="115.5" y="32" class="ct-post">24</text><text x="144" y="87" class="ct-post">9</text><text x="172.5" y="90.66666666666667" class="ct-post">8</text></g>
+                                        <text x="58.5" y="76" class="ct-post">12</text><text x="87" y="83.33333333333334" class="ct-post">10</text><text x="115.5" y="32" class="ct-post">24</text><text x="144" y="87" class="ct-post">9</text><text x="172.5" y="87" class="ct-post">9</text></g>
                                     </g>
                                     <g class="ct-labels">
                                         <text x="30" y="145" width="28.5" height="20" class="ct-label ct-horizontal ct-end">Sun</text>
@@ -2476,7 +2476,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>withastro/compiler</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Astro v1.0 compiler. Written in Go, distributed as WASM.</div>
@@ -2529,7 +2529,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ledger/ledger</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Double-entry accounting system with a command-line reporting interface</div>
@@ -2582,7 +2582,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Wowu/docker-rollout</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🚀 Zero Downtime Deployment for Docker Compose</div>
@@ -2603,7 +2603,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        803
+                                        807
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2762,7 +2762,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Feb 2023, 09:05:53 (timezone Europe/Lisbon) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 10 Feb 2023, 10:05:46 (timezone Europe/Lisbon) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
