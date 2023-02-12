@@ -2480,7 +2480,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>actualbudget/actual</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A local-first personal finance system</div>
@@ -2533,7 +2533,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>actualbudget/actual-server</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Actual's server</div>
@@ -2586,7 +2586,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>withastro/compiler</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Astro v1.0 compiler. Written in Go, distributed as WASM.</div>
@@ -2766,7 +2766,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Feb 2023, 08:06:03 (timezone Europe/Lisbon) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 12 Feb 2023, 09:05:44 (timezone Europe/Lisbon) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
