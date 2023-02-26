@@ -2481,7 +2481,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>magit/magit</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">It's Magit! A Git Porcelain inside Emacs.</div>
@@ -2534,7 +2534,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Mirrorful/mirrorful</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Create the building blocks of your app</div>
@@ -2767,7 +2767,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Feb 2023, 15:05:41 (timezone Europe/Lisbon) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 26 Feb 2023, 16:06:07 (timezone Europe/Lisbon) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
