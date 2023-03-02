@@ -2472,7 +2472,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ascorbic/unpic-img</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Multi-framework responsive image component</div>
@@ -2519,7 +2519,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cycjimmy/semantic-release-action</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GitHub Action for Semantic Release</div>
@@ -2572,7 +2572,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MansaGroup/nrwl-nx-action</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A GitHub Action to wrap Nrwl Nx commands in your workflows.</div>
@@ -2625,7 +2625,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MicroWebStacks/astro-big-doc</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Astro Theme that can scale for big documentation websites. Includes an unimited depth config menu that starts with a top appbar for sections navigation, then continues on a tree left  menu for pages. Each page then has a tree right menu for its table of content.</div>
@@ -2752,7 +2752,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Mar 2023, 12:07:58 (timezone Europe/Lisbon) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 2 Mar 2023, 13:10:22 (timezone Europe/Lisbon) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
