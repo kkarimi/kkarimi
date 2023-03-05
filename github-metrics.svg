@@ -2481,7 +2481,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>chr15m/rogule.com</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A dungeon a day keeps the Balrog away</div>
@@ -2528,7 +2528,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jahilldev/minimal-analytics</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Minimal versions of popular analytics libraries. Reduce the impact of third-party scripts on your application.</div>
@@ -2761,7 +2761,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Mar 2023, 13:08:32 (timezone Europe/Lisbon) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 5 Mar 2023, 14:05:48 (timezone Europe/Lisbon) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
