@@ -2451,7 +2451,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aptakube/aptakube</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Modern, lightweight and multi-cluster Kubernetes desktop client. Available on Windows, macOS and Linux.</div>
@@ -2492,7 +2492,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>padloc/padloc</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A modern, open source password manager for individuals and teams.</div>
@@ -2545,7 +2545,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Brooooooklyn/keyring-node</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">https://github.com/hwchen/keyring-rs Node.js binding via https://napi.rs</div>
@@ -2598,7 +2598,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>natemoo-re/astro-icon</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Inline and sprite-based SVGs in Astro made easy!</div>
@@ -2725,7 +2725,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Mar 2023, 20:05:58 (timezone Europe/Lisbon) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 6 Mar 2023, 21:05:58 (timezone Europe/Lisbon) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
