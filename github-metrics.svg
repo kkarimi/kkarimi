@@ -2359,7 +2359,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>WeFindFlats/mono</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">WFF shiny monorepo</div>
@@ -2406,7 +2406,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tldraw/tldraw</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A tiny little drawing app.</div>
@@ -2459,7 +2459,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ImageOptim/gifski</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format.</div>
@@ -2574,7 +2574,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Mar 2023, 04:06:29 (timezone Europe/Lisbon) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 10 Mar 2023, 05:06:00 (timezone Europe/Lisbon) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
