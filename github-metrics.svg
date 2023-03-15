@@ -2466,7 +2466,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>diggerhq/digger</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Run Terraform plan / apply in your CI</div>
@@ -2519,7 +2519,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>awslabs/amazon-s3-tar-tool</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A utility tool to create a tarball of existing objects in Amazon S3</div>
@@ -2572,7 +2572,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>openai/openai-quickstart-node</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Node.js example app from the OpenAI API quickstart tutorial</div>
@@ -2752,7 +2752,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Mar 2023, 14:08:44 (timezone Europe/Lisbon) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 15 Mar 2023, 15:08:56 (timezone Europe/Lisbon) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
