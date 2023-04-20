@@ -2356,7 +2356,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>themesberg/flowbite</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The most popular and open-source library of Tailwind CSS components</div>
@@ -2510,7 +2510,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LAION-AI/Open-Assistant</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.</div>
@@ -2637,7 +2637,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Apr 2023, 14:07:19 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 20 Apr 2023, 15:05:47 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
