@@ -2366,7 +2366,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>regclient/actions</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2414,7 +2414,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>regclient/regclient</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Docker and OCI Registry Client in Go and tooling using those libraries.</div>
@@ -2467,7 +2467,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dagger/dagger</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A programmable CI/CD engine that runs your pipelines in containers</div>
@@ -2520,7 +2520,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>privatenumber/cleye</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">👁‍🗨 cleye — The intuitive &amp; typed CLI development tool for Node.js</div>
@@ -2647,7 +2647,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Apr 2023, 01:19:36 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 22 Apr 2023, 02:32:35 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
