@@ -2361,7 +2361,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>leegilmorecode/Serverless-AWS-CDK-Best-Practices-Patterns-Part-4</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An opinionated discussion around how to set up, structure, and deploy your AWS CDK Serverless apps using CDK Pipelines in line with AWS best practice - Part 4. Code examples are written in TypeScript.</div>
@@ -2408,7 +2408,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>adibhanna/nvim</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Neovim config</div>
@@ -2455,7 +2455,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>alexhddev/CDK-course-resources</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2503,7 +2503,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>awslabs/cdk-aws-lambda-powertools-layer</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2631,7 +2631,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Apr 2023, 01:20:09 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 28 Apr 2023, 02:33:19 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
