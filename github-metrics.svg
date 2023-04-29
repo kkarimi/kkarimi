@@ -2366,7 +2366,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pepperize/cdk-organizations</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Manage AWS organizations, organizational units (OU), accounts and service control policies (SCP).</div>
@@ -2419,7 +2419,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>delucis/astro-og-canvas</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Generate OpenGraph images for your Astro site</div>
@@ -2634,7 +2634,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Apr 2023, 01:18:42 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 29 Apr 2023, 02:32:25 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
