@@ -2341,7 +2341,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dagster-io/dagster</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An orchestration platform for the development, production, and observation of data assets.</div>
@@ -2394,7 +2394,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>plausible/hosting</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Example docker-compose setups for hosting Plausible Analytics</div>
@@ -2615,7 +2615,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 May 2023, 14:06:02 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 1 May 2023, 15:05:57 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
