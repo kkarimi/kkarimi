@@ -2366,7 +2366,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tigrisdata/tigris</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tigris is an Open Source Serverless NoSQL Database and Search Platform.</div>
@@ -2419,7 +2419,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>chronark/highstorm</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open Source Event Monitoring</div>
@@ -2472,7 +2472,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kartoza/docker-pg-backup</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A cron job that will back up databases running in a docker postgres container</div>
@@ -2525,7 +2525,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cpvdeveloper/aws-cdk-ml-lambdas</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A selection of AWS "Machine Learning" APIs deployed as lambda functions + API Gateway using the AWS CDK.</div>
@@ -2646,7 +2646,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 May 2023, 20:05:15 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 6 May 2023, 21:05:49 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
