@@ -2351,7 +2351,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jogold/cloudstructs</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">High-level constructs for AWS CDK</div>
@@ -2404,7 +2404,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cdklabs/cdk-validator-cfnguard</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2458,7 +2458,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>awslabs/amazon-dynamodb-tools</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tools to make effective use of DynamoDB easier.</div>
@@ -2646,7 +2646,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 May 2023, 23:12:06 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 11 May 2023, 00:07:41 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
