@@ -2351,7 +2351,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jogold/cloudstructs</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">High-level constructs for AWS CDK</div>
@@ -2404,7 +2404,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cdklabs/cdk-validator-cfnguard</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2458,7 +2458,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>awslabs/amazon-dynamodb-tools</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tools to make effective use of DynamoDB easier.</div>
@@ -2511,7 +2511,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>calcom/docker</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Docker configuration for Cal.com is an effort powered by people within the community. Cal.com, Inc. does not provide official support for Docker, but we will accept fixes and documentation. Use at your own risk.</div>
@@ -2638,7 +2638,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 May 2023, 10:06:00 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 10 May 2023, 11:06:04 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
