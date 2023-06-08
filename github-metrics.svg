@@ -2350,7 +2350,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>awslabs/amazon-app-runner-deploy</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Registers an AWS AppRunner Service and deploys the application using the source code of a given GitHub repository. Supports both source code and Docker image based service</div>
@@ -2624,7 +2624,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Jun 2023, 21:05:55 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 8 Jun 2023, 22:06:19 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
