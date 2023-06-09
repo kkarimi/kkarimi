@@ -2361,7 +2361,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DennisKo/nextjs-langchain-starter</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The most basic NextJS + Langchain app</div>
@@ -2408,7 +2408,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>awslabs/amazon-app-runner-deploy</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Registers an AWS AppRunner Service and deploys the application using the source code of a given GitHub repository. Supports both source code and Docker image based service</div>
@@ -2629,7 +2629,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Jun 2023, 06:05:44 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 9 Jun 2023, 07:06:20 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
