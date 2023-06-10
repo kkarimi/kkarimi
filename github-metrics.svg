@@ -2366,7 +2366,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AndrewGuenther/fck-nat</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Feasible cost konfigurable NAT: An AWS NAT Instance AMI</div>
@@ -2466,7 +2466,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>awslabs/amazon-app-runner-deploy</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Registers an AWS AppRunner Service and deploys the application using the source code of a given GitHub repository. Supports both source code and Docker image based service</div>
@@ -2640,7 +2640,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Jun 2023, 07:05:56 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 10 Jun 2023, 08:05:32 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
