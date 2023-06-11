@@ -2365,7 +2365,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>soos3d/chat-with-repo-langchain-openai</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This project allows you to plug in a GitHub repository URL, generate vectors for a LLM and use ChatGPT models to interact. The main framework used is Langchain.</div>
@@ -2418,7 +2418,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vadimdemedes/astro-selfie</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Astro integration to generate page screenshots to show as Open Graph images</div>
@@ -2639,7 +2639,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Jun 2023, 07:05:56 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 11 Jun 2023, 08:05:47 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
