@@ -2359,7 +2359,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fabien0102/ts-to-zod</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Generate zod schemas from typescript types/interfaces</div>
@@ -2412,7 +2412,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pzavolinsky/ts-unused-exports</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ts-unused-exports finds unused exported symbols in your Typescript project</div>
@@ -2465,7 +2465,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bvaughn/use-context-menu</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">React components for displaying configurable context menus</div>
@@ -2518,7 +2518,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jesseduffield/lazydocker</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The lazier way to manage everything docker</div>
@@ -2645,7 +2645,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Jul 2023, 06:05:48 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 19 Jul 2023, 07:06:29 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
