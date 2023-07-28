@@ -2369,7 +2369,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aws-observability/aws-otel-community</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Welcome to the AWS Distro for OpenTelemetry project. If you're using monitoring and observability tools for AWS products and services, this is a great place to ask questions, request features and network with other community members.</div>
@@ -2422,7 +2422,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aws-cloudformation/rain</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A development workflow tool for working with AWS CloudFormation.</div>
@@ -2655,7 +2655,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Jul 2023, 07:06:42 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 28 Jul 2023, 08:05:41 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
