@@ -2374,7 +2374,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vinejs/vine</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">VineJS is a form data validation library for Node.js</div>
@@ -2427,7 +2427,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>japa/core</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The core of Japa. It includes all the primitives to build a test runner</div>
@@ -2480,7 +2480,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>uninbox/UnInbox</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Email 💌 + Communication 💬 platform that lets you have conversations, without the cons 😎</div>
@@ -2660,7 +2660,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jul 2023, 01:19:48 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 29 Jul 2023, 02:31:31 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
