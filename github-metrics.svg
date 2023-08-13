@@ -2373,7 +2373,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cdklabs/construct-hub</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AWS CDK construct library that can be used to deploy instances of the Construct Hub in any AWS Account.</div>
@@ -2532,7 +2532,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nextui-org/nextui</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🚀   Beautiful, fast and modern React UI library.</div>
@@ -2659,7 +2659,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Aug 2023, 16:05:26 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 13 Aug 2023, 17:06:02 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
