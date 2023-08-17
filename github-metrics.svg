@@ -2364,7 +2364,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mikaelvesavuori/dorametrix</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Dorametrix is a serverless web service that helps you calculate your DORA metrics, by inferring your metrics from events you create with webhooks (or manually!).</div>
@@ -2417,7 +2417,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mikaelvesavuori/archfit</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Validate the fitness of your AWS solutions, without the heavy lifting!</div>
@@ -2470,7 +2470,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>epicweb-dev/kcdshop</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The workshop app for all workshops on EpicWeb.dev</div>
@@ -2523,7 +2523,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>modernweb-dev/web</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Guides, tools and libraries for modern web development.</div>
@@ -2650,7 +2650,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Aug 2023, 17:06:04 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 17 Aug 2023, 18:05:39 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
