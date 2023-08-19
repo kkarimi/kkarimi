@@ -2368,7 +2368,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aws-samples/aws-ddk-examples</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collection of examples built with AWS DataOps Development Kit (DDK)</div>
@@ -2421,7 +2421,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>awslabs/aws-ddk</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open source development framework to help you build data workflows and modern data architecture on AWS.</div>
@@ -2654,7 +2654,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Aug 2023, 23:05:37 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 20 Aug 2023, 00:05:35 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
