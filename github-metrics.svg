@@ -2373,7 +2373,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aws-samples/aws-ddk-examples</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collection of examples built with AWS DataOps Development Kit (DDK)</div>
@@ -2426,7 +2426,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>awslabs/aws-ddk</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open source development framework to help you build data workflows and modern data architecture on AWS.</div>
@@ -2532,7 +2532,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mikaelvesavuori/dorametrix</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Dorametrix is a serverless web service that helps you calculate your DORA metrics, by inferring your metrics from events you create with webhooks (or manually!).</div>
@@ -2659,7 +2659,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Aug 2023, 10:05:44 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 20 Aug 2023, 11:05:30 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
