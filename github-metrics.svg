@@ -2364,7 +2364,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aws-solutions/document-understanding-solution</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Example of integrating &amp; using Amazon Textract, Amazon Comprehend, Amazon Comprehend Medical, Amazon Kendra to automate the processing of documents for use cases such as enterprise search and discovery, control and compliance, and general business process workflow.</div>
@@ -2417,7 +2417,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aws-samples/amazon-location-sample-map-with-geocoder</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2471,7 +2471,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>awslabs/simple-code-scanning-pipeline</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2525,7 +2525,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>facebookresearch/llama-recipes</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Examples and recipes for Llama 2 model</div>
@@ -2652,7 +2652,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Aug 2023, 04:05:56 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 24 Aug 2023, 05:06:07 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
