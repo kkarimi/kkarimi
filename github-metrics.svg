@@ -2302,7 +2302,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>revant-io/cdk-cost-limit</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Collection of CDK Constructs to Deploy Cost-Aware Self-Limiting Resources</div>
@@ -2349,7 +2349,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aframevr/aframe</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2405,7 +2405,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aws-solutions/document-understanding-solution</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Example of integrating &amp; using Amazon Textract, Amazon Comprehend, Amazon Comprehend Medical, Amazon Kendra to automate the processing of documents for use cases such as enterprise search and discovery, control and compliance, and general business process workflow.</div>
@@ -2458,7 +2458,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aws-samples/amazon-location-sample-map-with-geocoder</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2586,7 +2586,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Aug 2023, 18:05:44 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 24 Aug 2023, 19:06:13 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
