@@ -2343,7 +2343,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dokku/dokku</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A docker-powered PaaS that helps you build and manage the lifecycle of applications</div>
@@ -2396,7 +2396,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dokku/dokku-letsencrypt</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Automatic Let's Encrypt TLS Certificate installation for dokku</div>
@@ -2449,7 +2449,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>remorses/middleflare</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Deploy Next.js middleware to Cloudflare Workers</div>
@@ -2496,7 +2496,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aws-samples/retail-large-data-ml-e2e</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2624,7 +2624,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Aug 2023, 15:05:53 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 28 Aug 2023, 16:06:02 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
