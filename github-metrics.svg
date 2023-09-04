@@ -2343,7 +2343,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BerriAI/litellm</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">lightweight package to simplify LLM API calls - Azure, OpenAI, Cohere, Anthropic, Replicate. Manages input/output translation</div>
@@ -2396,7 +2396,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aws-samples/dynamic-model-training-with-amazon-sagemaker-pipelines</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2450,7 +2450,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>KianNH/cloudflare-worker-s3-to-r2-migration</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cloudflare Worker that will allow you to progressively migrate files from an S3-compatible object store to Cloudflare R2.</div>
@@ -2630,7 +2630,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Sept 2023, 20:05:39 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 4 Sept 2023, 21:05:54 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
