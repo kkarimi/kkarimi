@@ -2620,7 +2620,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DeveloperMetrics/DevOpsMetrics</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A project to extract and process high performing DevOps metrics (DORA) from GitHub and Azure DevOps</div>
@@ -2673,7 +2673,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>alextim/astro-lib</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Makes it easy to add robots.txt, sitemap and web app manifest during build to your Astro app.</div>
@@ -2907,7 +2907,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Sept 2023, 21:05:47 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Sept 2023, 22:05:32 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
