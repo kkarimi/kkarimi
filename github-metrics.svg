@@ -2740,7 +2740,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DeveloperMetrics/DevOpsMetrics</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A project to extract and process high performing DevOps metrics (DORA) from GitHub and Azure DevOps</div>
@@ -2920,7 +2920,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Sept 2023, 20:05:20 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Sept 2023, 21:06:14 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
