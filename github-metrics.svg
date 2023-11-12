@@ -2572,7 +2572,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dbt-labs/dbt-spark</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">dbt-spark contains all of the code enabling dbt to work with Apache Spark and Databricks</div>
@@ -2847,7 +2847,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Nov 2023, 09:05:50 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Nov 2023, 10:05:45 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
