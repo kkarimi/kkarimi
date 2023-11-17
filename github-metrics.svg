@@ -2558,7 +2558,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JakeMartin-ICL/ha-monzo</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A standalone HACS-ready version of my Monzo Home Assistant integration for preview and testing</div>
@@ -2611,7 +2611,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aws-samples/serverless-test-samples</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This repository is designed to provide guidance for implementing comprehensive test suites for serverless applications.</div>
@@ -2844,7 +2844,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Nov 2023, 20:05:52 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Nov 2023, 21:05:39 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
