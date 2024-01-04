@@ -2619,7 +2619,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GoogleContainerTools/distroless</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🥑  Language focused docker images, minus the operating system.</div>
@@ -2672,7 +2672,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JupiterOne/playwright-aws-lambda</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Support for running Microsoft's Playwright on AWS Lambda and Google Cloud Functions</div>
@@ -2725,7 +2725,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SamHerbert/SVG-Loaders</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Loading icons and small animations built with pure SVG.</div>
@@ -2778,7 +2778,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>amplify-education/serverless-domain-manager</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Serverless plugin for managing custom domains with API Gateways.</div>
@@ -2905,7 +2905,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Jan 2024, 22:05:52 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Jan 2024, 23:05:49 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
