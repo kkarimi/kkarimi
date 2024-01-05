@@ -2562,7 +2562,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>CloudSnorkel/cdk-turbo-layers</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Speed up deployment of Lambda functions by creating dependency layers in AWS instead of locally.</div>
@@ -2615,7 +2615,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GoogleContainerTools/distroless</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🥑  Language focused docker images, minus the operating system.</div>
@@ -2848,7 +2848,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jan 2024, 13:06:25 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Jan 2024, 14:06:00 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
