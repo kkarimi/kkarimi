@@ -2630,7 +2630,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pilcrowOnPaper/oslo</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collection of auth-related utilities</div>
@@ -2683,7 +2683,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lucia-auth/lucia</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Authentication, simple and clean</div>
@@ -2736,7 +2736,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>uninbox/UnInbox</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Modern email for teams and professionals. A replacement for outdated email technology and tools. Alt to hey.com, front.com, missive.com</div>
@@ -2916,7 +2916,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Feb 2024, 05:05:39 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Feb 2024, 06:06:30 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
