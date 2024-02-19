@@ -2600,7 +2600,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mooyoul/aws-cdk-ses-domain-identity</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Constructs for provisioning and referencing domain identities which can be used in SES RuleSets and Actions Construct.</div>
@@ -2880,7 +2880,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Feb 2024, 19:05:31 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Feb 2024, 20:06:00 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
