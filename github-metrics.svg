@@ -2763,7 +2763,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lmsqueezy/wedges</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An ever-expanding, open-source React UI library built with the Wedges Design System, Radix primitives, and Tailwind CSS.</div>
@@ -2890,7 +2890,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Mar 2024, 05:05:48 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Mar 2024, 06:06:41 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
