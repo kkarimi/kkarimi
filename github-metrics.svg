@@ -2614,7 +2614,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AnWeber/httpyac</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Command Line Interface for *.http and *.rest files. Connect with http, gRPC, WebSocket and MQTT</div>
@@ -2894,7 +2894,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Mar 2024, 01:27:26 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Mar 2024, 02:11:48 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
