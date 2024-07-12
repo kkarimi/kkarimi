@@ -574,7 +574,7 @@
                         <div class="topics fill-width">
                             <div class="label" title="Amazon Web Services provides on-demand cloud computing platforms on a subscription basis.">amazon web services</div>
                             <div class="label" title="An awesome list is a list of awesome things curated by the community.">awesome lists</div>
-                            <div class="label" title="A CLI, or command-line interface, is a console that helps users issue commands to a program.">command line interface</div>
+                            <div class="label" title="A CLI, or command-line interface, is a console that helps users issue commands to a program.">command-line interface</div>
                             <div class="label" title="Chrome extensions enable users to customize the Chrome browsing experience.">chrome extension</div>
                             <div class="label" title="Ensure your code meets quality standards and ship with confidence.">code review</div>
                             <div class="label" title="TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.">typescript</div>
@@ -2848,7 +2848,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Jul 2024, 20:05:36 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Jul 2024, 21:06:10 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
