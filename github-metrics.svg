@@ -2624,7 +2624,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gleam-lang/gleam</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⭐️ A friendly language for building type-safe, scalable systems!</div>
@@ -2677,7 +2677,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mylofi/local-data-lock</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Protect local-first app data with encryption/decryption key secured in Webauthn (biometric) passkey</div>
@@ -2905,7 +2905,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Aug 2024, 23:06:26 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Aug 2024, 00:05:49 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
