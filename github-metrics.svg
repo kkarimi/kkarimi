@@ -2721,7 +2721,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>coryhouse/react-switchboard</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Quickly create custom DevTools for your React app</div>
@@ -2774,7 +2774,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>spion/adbfs-rootless</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Mount Android phones on Linux with adb. No root required.</div>
@@ -2901,7 +2901,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Aug 2024, 05:06:45 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Aug 2024, 06:06:39 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
