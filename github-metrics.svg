@@ -2599,7 +2599,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>get-convex/convex-backend</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open source single-machine version of the Convex backend</div>
@@ -2652,7 +2652,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kurtosis-tech/kardinal</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Kardinal is the lightest-weight way to spin up dev and test environments in Kubernetes. Deploy the absolute minimum resources necessary and implement dev, test, and QA all in one cluster.</div>
@@ -2885,7 +2885,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Aug 2024, 06:06:04 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Aug 2024, 07:07:57 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
