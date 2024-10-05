@@ -2627,7 +2627,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cdklabs/cdk-from-cfn</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A cloudformation json -&gt; cdk typescript transpiler.</div>
@@ -2680,7 +2680,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>leegilmorecode/progressive-lambda-deployments-with-rollbacks</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">How can we create progressively deployed AWS Lambda functions that can also roll back on failure? Here are examples in Typescript and the AWS CDK.</div>
@@ -2901,7 +2901,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Oct 2024, 21:05:56 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Oct 2024, 22:06:06 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
