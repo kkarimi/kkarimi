@@ -2632,7 +2632,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>expo/examples</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Example projects that demonstrate how to use Expo APIs and integrate Expo with other popular tools</div>
@@ -2679,7 +2679,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>koyopro/astro-cookie-session</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Middleware for managing sessions using cookies on Astro.</div>
@@ -2732,7 +2732,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cdklabs/cdk-from-cfn</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A cloudformation json -&gt; cdk typescript transpiler.</div>
@@ -2785,7 +2785,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>leegilmorecode/progressive-lambda-deployments-with-rollbacks</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">How can we create progressively deployed AWS Lambda functions that can also roll back on failure? Here are examples in Typescript and the AWS CDK.</div>
@@ -2906,7 +2906,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Oct 2024, 23:05:59 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Oct 2024, 00:05:57 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
