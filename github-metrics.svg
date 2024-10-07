@@ -2639,7 +2639,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>expo/examples</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Example projects that demonstrate how to use Expo APIs and integrate Expo with other popular tools</div>
@@ -2686,7 +2686,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>koyopro/astro-cookie-session</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Middleware for managing sessions using cookies on Astro.</div>
@@ -2913,7 +2913,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Oct 2024, 04:12:42 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Oct 2024, 05:07:38 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
