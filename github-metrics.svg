@@ -2677,7 +2677,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>expo/dev-plugins</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Out-of-tree Expo devtools plugins for packages that haven't adopted the Expo devtools plugin system yet.</div>
@@ -2910,7 +2910,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Dec 2024, 16:06:43 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Dec 2024, 17:05:55 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
