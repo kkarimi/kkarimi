@@ -2543,7 +2543,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cloudflare/workflows-starter</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A starter template for Cloudflare Workflows.</div>
@@ -2596,7 +2596,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Foundry376/Mailspring</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2652,7 +2652,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>docmost/docmost</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.</div>
@@ -2705,7 +2705,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cline/cline</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.</div>
@@ -2832,7 +2832,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Dec 2024, 19:06:14 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Dec 2024, 20:06:32 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
