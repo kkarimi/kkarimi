@@ -2628,7 +2628,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jkpe/eight-sleep-m5stack-atoms3</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Use the ATOMS3 Dev Kit to create a small, dedicated button for Eight Sleep temperature control.</div>
@@ -2669,7 +2669,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nrubin29/finale</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A fully-featured Last.fm client and scrobbler with Shazam-like scrobbling, a collage generator, home screen widgets, and more!</div>
@@ -2722,7 +2722,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>videojs/m3u8-parser</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An m3u8 parser.</div>
@@ -2775,7 +2775,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>anandslab/docker-traefik</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Docker media and home server stack with Docker Compose, Traefik, Swarm Mode, Google OAuth2/Authelia, and LetsEncrypt</div>
@@ -2902,7 +2902,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jan 2025, 04:07:07 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Jan 2025, 05:06:08 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
