@@ -2545,7 +2545,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jupyter-book/mystmd</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Command line tools for working with MyST Markdown.</div>
@@ -2598,7 +2598,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jupyter-book/jupyter-book</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Create beautiful, publication-quality books and documents from computational content.</div>
@@ -2819,7 +2819,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Jan 2025, 06:08:18 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Jan 2025, 07:06:24 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
