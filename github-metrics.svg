@@ -2547,7 +2547,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bentoml/OpenLLM</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud.</div>
@@ -2600,7 +2600,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LadybirdBrowser/ladybird</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Truly independent web browser</div>
@@ -2835,7 +2835,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Mar 2025, 06:08:33 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Mar 2025, 07:06:54 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
