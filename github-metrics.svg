@@ -2612,7 +2612,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>antfu/node-modules-inspector</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Interactive UI for local node modules inspection</div>
@@ -2665,7 +2665,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>langchain-ai/local-deep-researcher</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fully local web research and report writing assistant</div>
@@ -2718,7 +2718,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fi3ework/vite-plugin-checker</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">💬 Vite plugin that provide checks of TypeScript, ESLint, vue-tsc, Stylelint and more.</div>
@@ -2845,7 +2845,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Mar 2025, 18:07:33 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Mar 2025, 19:06:10 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
