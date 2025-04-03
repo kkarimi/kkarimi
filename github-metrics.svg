@@ -2549,7 +2549,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Mermaid-Chart/vscode-mermaid-chart</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The code for the Mermaid Chart extension for Visual Studio Code</div>
@@ -2602,7 +2602,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>QuentinWach/fedit</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">How to open, read, write, and save files in Tauri 2.0 using Rust invocations.</div>
@@ -2649,7 +2649,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>liontariai/template-rn-macos-expo-router-nativewind</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A template for a React Native macOS app using Expo Router and NativeWind.</div>
@@ -2702,7 +2702,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>riipandi/tauri-start-solid</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This project template should help get you started developing a multi-platform desktop application with tray menu support using Tauri, SolidJS, Typescript, Tailwind CSS, and Vite.</div>
@@ -2855,7 +2855,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Apr 2025, 09:08:51 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Apr 2025, 10:07:14 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
