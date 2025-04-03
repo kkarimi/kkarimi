@@ -2549,7 +2549,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Mermaid-Chart/vscode-mermaid-chart</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The code for the Mermaid Chart extension for Visual Studio Code</div>
@@ -2602,7 +2602,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>QuentinWach/fedit</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">How to open, read, write, and save files in Tauri 2.0 using Rust invocations.</div>
@@ -2649,7 +2649,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>liontariai/template-rn-macos-expo-router-nativewind</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A template for a React Native macOS app using Expo Router and NativeWind.</div>
@@ -2702,7 +2702,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>riipandi/tauri-start-solid</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This project template should help get you started developing a multi-platform desktop application with tray menu support using Tauri, SolidJS, Typescript, Tailwind CSS, and Vite.</div>
@@ -2759,6 +2759,19 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">liontariai/template-rn-macos-expo-router-nativewind</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -2827,28 +2840,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      tag
-                                        <span class="code">v0.1.18</span>
-                                        in
-                                        <span class="repo">kkarimi/bergen</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Apr 2025, 16:06:58 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Apr 2025, 17:07:48 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
