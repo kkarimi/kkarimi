@@ -2587,7 +2587,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Mermaid-Chart/vscode-mermaid-chart</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The code for the Mermaid Chart extension for Visual Studio Code</div>
@@ -2640,7 +2640,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>QuentinWach/fedit</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">How to open, read, write, and save files in Tauri 2.0 using Rust invocations.</div>
@@ -2814,7 +2814,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Apr 2025, 23:06:52 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Apr 2025, 00:06:36 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
