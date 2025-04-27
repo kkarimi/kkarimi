@@ -2558,7 +2558,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>duckdb/duckdb</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DuckDB is an analytical in-process SQL database management system</div>
@@ -2611,7 +2611,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>trinodb/trino</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)</div>
@@ -2664,7 +2664,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apache/superset</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Apache Superset is a Data Visualization and Data Exploration Platform</div>
@@ -2717,7 +2717,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>airbnb/airpal</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Web UI for PrestoDB.</div>
@@ -2844,7 +2844,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Apr 2025, 05:07:44 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Apr 2025, 06:06:52 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
