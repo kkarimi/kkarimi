@@ -2553,7 +2553,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>platformatic/massimo</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Massimo is an API SDK client and CLI tool for creating clients for remote OpenAPI or GraphQL APIs</div>
@@ -2781,7 +2781,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Sept 2025, 04:15:07 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Sept 2025, 05:08:04 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
