@@ -2292,7 +2292,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>supabase/etl</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Stream your Postgres data anywhere in real-time. Simple Rust building blocks for change data capture (CDC) pipelines.</div>
@@ -2560,7 +2560,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Nov 2025, 20:08:24 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Nov 2025, 21:07:13 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
