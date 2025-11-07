@@ -2307,7 +2307,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>steipete/tmuxwatch</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple TUI to watch tmux sessions</div>
@@ -2460,7 +2460,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>supabase/etl</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Stream your Postgres data anywhere in real-time. Simple Rust building blocks for change data capture (CDC) pipelines.</div>
@@ -2587,7 +2587,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Nov 2025, 22:06:39 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Nov 2025, 23:06:39 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
