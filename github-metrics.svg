@@ -2297,7 +2297,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jetify-com/typeid-js</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">TypeScript implementation of TypeIDs: type-safe, K-sortable, and globally unique identifiers inspired by Stripe IDs</div>
@@ -2350,7 +2350,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>diet103/claude-code-infrastructure-showcase</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents</div>
@@ -2583,7 +2583,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Nov 2025, 13:16:46 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Nov 2025, 14:07:38 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
