@@ -2302,7 +2302,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jetify-com/typeid-js</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">TypeScript implementation of TypeIDs: type-safe, K-sortable, and globally unique identifiers inspired by Stripe IDs</div>
@@ -2588,7 +2588,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Nov 2025, 06:11:15 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Nov 2025, 07:07:37 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
