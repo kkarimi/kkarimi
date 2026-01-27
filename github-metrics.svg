@@ -2292,7 +2292,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>oss-serverless/serverless</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Serverless Framework CLI v3 alternative</div>
@@ -2345,7 +2345,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ssmirr/conduit</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Conduit is a volunteer-run proxy node that relays traffic for Psiphon users in censored regions</div>
@@ -2513,7 +2513,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jan 2026, 18:13:37 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Jan 2026, 19:12:30 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
