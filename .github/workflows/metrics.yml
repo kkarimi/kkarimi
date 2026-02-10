@@ -17,10 +17,11 @@ permissions:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: lowlighter/metrics@v3.34
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN || github.token }}
           user: kkarimi
           template: classic
           base: header, activity, community, repositories, metadata
