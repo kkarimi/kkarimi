@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="kkarimi - Projects / experiments / notes" width="49%" />
+  <img src="./assets/hero.svg" alt="kkarimi - Projects / experiments / notes" width="100%" />
 </p>
 
 <p align="center">
@@ -11,5 +11,5 @@ Snapshot of recent work and activity, updated automatically.
 
 ## Metrics
 <p align="center">
-  <img src="./github-metrics.svg" alt="GitHub metrics" width="100%" />
+  <img src="./github-metrics.svg" alt="GitHub metrics" width="49%" />
 </p>
