@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="kkarimi - Projects / experiments / notes">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1220" />
+      <stop offset="100%" stop-color="#1f2937" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#f59e0b" />
+      <stop offset="100%" stop-color="#22d3ee" />
+    </linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="4" cy="4" r="2" fill="#334155" />
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="360" fill="url(#bg)" />
+  <rect width="1200" height="360" fill="url(#dots)" opacity="0.25" />
+
+  <g opacity="0.35">
+    <circle cx="960" cy="70" r="120" fill="#0ea5e9" />
+    <circle cx="1040" cy="270" r="140" fill="#f59e0b" />
+  </g>
+
+  <g fill="none" stroke="#94a3b8" stroke-opacity="0.35">
+    <path d="M80 280 C 240 200, 360 240, 520 180" />
+    <path d="M680 60 C 820 140, 980 120, 1120 200" />
+  </g>
+
+  <text x="80" y="150" fill="#f8fafc" font-size="64" font-family="Sora, Space Grotesk, Segoe UI, sans-serif" font-weight="700">kkarimi</text>
+  <rect x="80" y="178" width="340" height="8" rx="4" fill="url(#accent)" />
+  <text x="80" y="230" fill="#e2e8f0" font-size="22" font-family="Sora, Space Grotesk, Segoe UI, sans-serif" letter-spacing="0.5">Projects / experiments / notes</text>
+  <text x="80" y="265" fill="#94a3b8" font-size="16" font-family="IBM Plex Mono, Menlo, monospace">github.com/kkarimi</text>
+</svg>
