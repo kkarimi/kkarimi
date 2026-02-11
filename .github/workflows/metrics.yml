@@ -19,7 +19,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - uses: kkarimi/metrics@ecb33c76f17b5e03bf3ac0cdb727dc3eaaf1291e
+      - uses: kkarimi/metrics@df9df2b860bb472c3fa18b24676f18eee84ac3a6
         with:
           token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           user: kkarimi
